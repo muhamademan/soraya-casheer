@@ -15,7 +15,7 @@ function App() {
           <Row>
             <ListCategories />
             <Col>
-              <h4><strong>Daftar Product</strong></h4>
+              <h4><strong>Daftar Produk</strong></h4>
               <hr />
             </Col>
             <Hasil />
