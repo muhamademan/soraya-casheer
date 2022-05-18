@@ -13,3 +13,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.category-active {
+  background-color: #22558a;
+  color: white;
+}
+
+
+@media only screen and (max-height: 1000px) {
+  .hasil {
+    height: 460px;
+    overflow: auto;
+  }
+}
+
+/* .hasil::-webkit-scrollbar {
+  display: none;
+} */
